@@ -1,7 +1,9 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<h1 align="center">Hola, soy Sebastián👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenidos+a+mi+GitHub;Second+line+of+text)](https://git.io/typing-svg)
+
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
