@@ -4,14 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenidos+a+mi+GitHub;Algunas+cosas+sobre+mi:)](https://git.io/typing-svg)
 
-
 ## Sobre mi
 
 - Me gusta la musica 🎼 y toco guitarra 🎸
 - Coleccionista aficionado de Gameboy 🎮 y Ds 💻
 - ✏️ Titulado de Ingeniería en informática 👨‍🎓
 - Miembro de [Dev-Riders](http://github.com/Dev-Riders) 🏄
-<br>
+  <br>
+  <image src="imagenes/banner.jpg">
 
 ### ⚙️ &nbsp;GitHub Analytics
 
