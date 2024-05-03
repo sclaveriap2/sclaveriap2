@@ -2,8 +2,7 @@
 <h1 align="center">Hola, soy Sebastián👋</h1>
 </div>
 <image src="imagenes/banner.jpg">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenidos+a+mi+GitHub;Algunas+cosas+sobre+mi:)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenidos+a+mi+Github;Aqui+algunos+datos+sobre+mi)](https://git.io/typing-svg)
 ## Sobre mi
 
 - Me gusta la musica 🎼 y toco guitarra 🎸
