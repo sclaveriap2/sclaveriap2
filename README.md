@@ -2,7 +2,9 @@
 <h1 align="center">Hola, soy Sebastián👋</h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenidos+a+mi+GitHub;Algunas+cosas+sobre+mi:)](https://git.io/typing-svg)
+<image src="imagenes/banner.jpg">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenidos+a+mi+Github;Aqui+algunos+datos+sobre+mi)](https://git.io/typing-svg)
 
 ## Sobre mi
 
@@ -11,7 +13,7 @@
 - ✏️ Titulado de Ingeniería en informática 👨‍🎓
 - Miembro de [Dev-Riders](http://github.com/Dev-Riders) 🏄
   <br>
-  <image src="imagenes/banner.jpg">
+  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
