@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Sebastián👋</h1>
 </div>
 
-<image src="imagenes/banner.jpg">
+<image src="imagenes/banner2.jpg">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenidos+a+mi+Github;Aqui+algunos+datos+sobre+mi)](https://git.io/typing-svg)
 
