@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Sebastián👋</h1>
 </div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenidos+a+mi+Github;Aqui+algunos+datos+sobre+mi)](https://git.io/typing-svg)
 
 ## Sobre mi
