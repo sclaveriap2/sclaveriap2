@@ -11,7 +11,7 @@
 - Me gusta la musica 🎼 y toco guitarra 🎸
 - Coleccionista aficionado de Gameboy 🎮 y Ds 💻
 - ✏️ Titulado de Ingeniería en informática 👨‍🎓
-- Miembro de [Dev-Riders](http://github.com/Dev-Riders) 🏄
+- Mi Tesis, una aplicacion android en conjunto con una api, su BD y un portal administrativo: [Dev-Riders](http://github.com/Dev-Riders) 🏄
   <br>
   
 
