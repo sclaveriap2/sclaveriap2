@@ -4,7 +4,7 @@
 
 <image src="imagenes/banner2.jpg">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenidos+a+mi+Github;Aqui+algunos+datos+sobre+mi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenidos+a+mi+Github;Aquí+algunos+datos+sobre+mi)](https://git.io/typing-svg)
 
 ## Sobre mi
 
